@@ -3,6 +3,8 @@ An app that allows a group of friends to check on each other.
 
 Our goal is to create a social media app to help college students check up on each other at a glance and to provide a shared, personal space where honesty and vulnerability is not only welcomed, but encouraged. During this pandemic, we have noticed it has become quite difficult to keep up with our close friends and family with the added responsibilities and stress. This app allows students to update their status and reach out to friends when they need support.
 
+Dev Post: https://devpost.com/software/moodybuds
+
 ## MoodyBuds
 
 #### Features
